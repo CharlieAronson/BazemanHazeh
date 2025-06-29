@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bazeman Hazeh Support</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      background: #f0f4f8;
+      color: #333;
+      margin: 0;
+      display: flex;
+      height: 100vh;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-weight: 700;
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      color: #0a64ad;
+    }
+    p {
+      font-size: 1.2rem;
+      color: #555;
+      margin-top: 0;
+    }
+    a {
+      color: #0a64ad;
+      text-decoration: none;
+      font-weight: 600;
+      margin-top: 1.5rem;
+      display: inline-block;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      position: fixed;
+      bottom: 12px;
+      font-size: 0.85rem;
+      color: #888;
+      width: 100%;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bazeman Hazeh Support</h1>
+  <p>Coming Soon!<br />If you need help, email us at</p>
+  <a href="mailto:chaztheduck@gmail.com">chaztheduck@gmail.com</a>
+
+  <footer>© 2025 Bazeman Hazeh</footer>
+</body>
+</html>
